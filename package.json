@@ -1,0 +1,20 @@
+{
+  "name": "radix-vue-tagsinput",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "vue": "latest",
+    "radix-vue": "1.9.9",
+    "@radix-ui/colors": "latest",
+    "@iconify/vue": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest",
+    "@vitejs/plugin-vue": "latest",
+    "vue-tsc": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
+  }
+}
